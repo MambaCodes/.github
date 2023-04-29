@@ -11,7 +11,7 @@ To join, all you need is an innovative mindset and a willingness to work on proj
 
 If you're ready to be a part of something bigger than yourself, please contact us on:
 
-- [Discord](https://discord.com/invite/2X4WThB64b)
+- [Discord](https://discord.gg/mCX9PY6v8K)
 - Instagram : [@mambacodes](https://www.instagram.com/mambacodes/)
 - Email : theMambaCodes@gmail.com
 
