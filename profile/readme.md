@@ -10,7 +10,7 @@ We build **open-source projects** that push the limits of technology while also 
 
 ## 💡 Got an Idea? Join Us!  
 If you have an idea and want to **collaborate on open-source projects**, reach out!  
-📧 **Email**: [themambacodes@gmail.com](mailto:themambacodes@gmail.com)  
+📧 **Email**: [mambacodes@starthack.io](mailto:mambacodes@starthack.io)  
 🌍 **Location**: Remote, Open to All  
 
 Let’s create something awesome. 🔥  
